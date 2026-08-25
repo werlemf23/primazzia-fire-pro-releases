@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "channel": "PROD",
+  "download_url": "",
+  "sha256": "",
+  "mandatory": false,
+  "notes": [
+    "Versão inicial oficial do Primazzia Fire Pro."
+  ]
+}
